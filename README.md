@@ -1,1 +1,1 @@
-Feature branch changes for Git branching experiment.
+Feature branch and main branch changes for Git branching experiment.
